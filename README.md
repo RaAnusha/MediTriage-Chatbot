@@ -21,8 +21,6 @@ bash
 MediTriage-Chatbot/
 ├── meditriage_app.py              # Streamlit UI script
 ├── meditriage_model_utils.py     # Model loading and prediction logic
-├── bert_meditriage_classifier.pkl  # Saved classification model
-├── label_encoder.pkl             # Saved label encoder
 ├── requirements.txt
 └── README.md
 📦 Prerequisites
