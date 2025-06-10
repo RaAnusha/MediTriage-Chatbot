@@ -16,8 +16,8 @@ Ethics-Aware: Built with awareness of data privacy and responsible AI use.
 
 🗂️ Project Structure
 bash
-Copy
-Edit
+
+
 MediTriage-Chatbot/
 ├── meditriage_app.py              # Streamlit UI script
 ├── meditriage_model_utils.py     # Model loading and prediction logic
@@ -46,7 +46,6 @@ Clone the repository:
 bash
 git clone https://github.com/your-username/MediTriage-Chatbot.git
 cd MediTriage-Chatbot
-Ensure the bert_meditriage_classifier.pkl and label_encoder.pkl files are present.
 
 Launch the app locally:
 
